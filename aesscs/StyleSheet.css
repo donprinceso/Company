@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+    background-image:url(../Pogba-Utd-3945.jpg);
+}
+footer{
+    clear: both;
+    align-content: center;
+    height: 10%;
+    text-align: center;
+   
+}
+.head{
+    height: 500px;
+    background: #269abc;
+}
+.header{
+    height: 70px;
+    border: 2px  #000;
+}
